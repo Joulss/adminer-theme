@@ -97,7 +97,6 @@ fieldset {
     border: 1px solid #c0c0c0;
     border-radius: 4px;
     min-height: 60px;
-    text-align: center;
 }
 fieldset legend {
     padding: 0 5px;
